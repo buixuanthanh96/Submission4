@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Vue-Job-Board
 
-You can use the [editor on GitHub](https://github.com/buixuanthanh96/Submission4.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> Job Portal built with VueJs and Firebase
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Still Under Development!
 
-### Markdown
+Please fork to send pull requests if you want to contribute to development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Build Setup
 
-```markdown
-Syntax highlighted code block
+``` bash
+# clone the repository
+git clone https://github.com/tamal3053/Vue-Job-Board && cd Vue-Job-Board
 
-# Header 1
-## Header 2
-### Header 3
+# install dependencies
+npm install
 
-- Bulleted
-- List
+# serve with hot reload at localhost:8080
+npm run dev
 
-1. Numbered
-2. List
+# build for production with minification
+npm run build
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# build for production and view the bundle analyzer report
+npm run build --report
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buixuanthanh96/Submission4.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
